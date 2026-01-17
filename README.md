@@ -40,4 +40,19 @@
     <li>Run <code>flutter run</code></li>
   </ul>
 
+    <h2>Screenshots</h2>
+  <p>App Screenshots:</p>
+  <img src="assets/screenshots/screen1.png" alt="Screenshot 1" width="200">
+  <img src="assets/screenshots/screen2.png" alt="Screenshot 2" width="200">
+  <img src="assets/screenshots/screen3.png" alt="Screenshot 3" width="200">
+  <img src="assets/screenshots/screen4.png" alt="Screenshot 4" width="200">
+  <img src="assets/screenshots/screen5.png" alt="Screenshot 5" width="200">
+  <img src="assets/screenshots/screen6.png" alt="Screenshot 6" width="200">
+  <img src="assets/screenshots/screen7.png" alt="Screenshot 7" width="200">
+  <img src="assets/screenshots/screen8.png" alt="Screenshot 8" width="200">
+  <img src="assets/screenshots/screen9.png" alt="Screenshot 9" width="200">
+  <img src="assets/screenshots/screen10.png" alt="Screenshot 10" width="200">
+  <img src="assets/screenshots/screen11.png" alt="Screenshot 11" width="200">
+
+
 </body>
